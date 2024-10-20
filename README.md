@@ -20,4 +20,4 @@
 
 
 
-![zuoguai_2024-10-20_13-50-11](D:\desktop\coding\luckcode_go\zuoguai_2024-10-20_13-50-11.png)
+![zuoguai_2024-10-20_13-50-11](zuoguai_2024-10-20_13-50-11.png)
